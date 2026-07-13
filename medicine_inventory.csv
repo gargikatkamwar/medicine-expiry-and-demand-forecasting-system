@@ -1,0 +1,34 @@
+BatchID,MedicineName,Category,CurrentStock,ExpiryDate,UnitPrice
+1000,Paracetamol 500mg,Analgesic,462,2027-01-24,298.89
+1001,Paracetamol 500mg,Analgesic,279,2026-12-02,255.01
+1002,Paracetamol 500mg,Analgesic,380,2027-02-19,177.24
+1003,Amoxicillin 250mg,Antibiotic,225,2026-08-05,299.68
+1004,Amoxicillin 250mg,Antibiotic,348,2027-01-14,226.97
+1005,Cetirizine 10mg,Antihistamine,414,2026-10-08,80.03
+1006,Metformin 500mg,Antidiabetic,449,2026-07-22,47.72
+1007,Metformin 500mg,Antidiabetic,236,2026-12-05,237.28
+1008,Metformin 500mg,Antidiabetic,463,2026-08-26,100.54
+1009,Atorvastatin 10mg,Statin,215,2026-12-15,231.66
+1010,Atorvastatin 10mg,Statin,163,2027-01-02,231.07
+1011,Omeprazole 20mg,Antacid,256,2027-01-11,173.38
+1012,Omeprazole 20mg,Antacid,257,2027-01-22,260.69
+1013,Omeprazole 20mg,Antacid,187,2026-09-30,178.48
+1014,Azithromycin 500mg,Antibiotic,78,2026-11-13,222.57
+1015,Ibuprofen 400mg,Analgesic,123,2026-09-08,122.88
+1016,Ibuprofen 400mg,Analgesic,325,2026-08-26,183.09
+1017,Losartan 50mg,Antihypertensive,159,2027-02-20,109.15
+1018,Losartan 50mg,Antihypertensive,246,2027-01-16,71.37
+1019,Losartan 50mg,Antihypertensive,100,2026-12-05,294.52
+1020,Insulin Glargine,Antidiabetic,162,2026-12-26,217.38
+1021,Insulin Glargine,Antidiabetic,458,2026-07-23,25.47
+1022,Aspirin 75mg,Blood Thinner,238,2026-12-02,115.11
+1023,Aspirin 75mg,Blood Thinner,231,2027-02-04,41.92
+1024,Aspirin 75mg,Blood Thinner,124,2026-07-30,193.18
+1025,Vitamin D3,Supplement,474,2026-09-06,212.17
+1026,Vitamin D3,Supplement,231,2027-01-27,170.86
+1027,Vitamin D3,Supplement,370,2026-09-11,244.97
+1028,Cough Syrup,Cold & Cough,192,2026-10-21,214.49
+1029,ORS Sachet,Rehydration,291,2026-12-31,141.34
+1030,ORS Sachet,Rehydration,479,2026-11-28,27.58
+1031,Amlodipine 5mg,Antihypertensive,161,2026-12-17,186.81
+1032,Amlodipine 5mg,Antihypertensive,92,2027-02-01,253.06
